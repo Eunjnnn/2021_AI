@@ -13,11 +13,11 @@ Code : OpenPose.ipynb
 Code : Yoga Pose Classification.ipynb
 
 
-|----|Accuracy|Loss|
-|CNN|0.35|2.45|
-|InceptionResnetV2|0.53|1.66|
-|VGG16|0.82|0.59|
-
+00|Accuracy|Loss
+----- | ----- | -----
+CNN|0.35|2.45|
+InceptionResnetV2|0.53|1.66
+VGG16|0.82|0.59
 
 
 
