@@ -2,7 +2,7 @@
 2021 인공지능 심화과정 프로젝트 발표회 우수상
 
 발표자료 링크
-https://docs.google.com/document/d/1qlpZjEnk5vqxnRQzZnlrKetNX3L7wjDmaw5Cyj8_gls/edit?usp=sharing
+https://drive.google.com/file/d/1YMLtCuBew6XfWqa3aVoBfT7o0nQy-CV_/view?usp=sharing
 
 
 ## DeepPose: Human Pose Estimation via Deep Neural Networks && OpenPose
